@@ -1,0 +1,25 @@
+body {
+  background-color: cadetblue;
+}
+
+.todolist {
+  margin-top: 30px;
+}
+
+.todolist input[type=text] {
+  width: 170%;
+}
+
+.todolist .btn {
+  margin-left: 270%;
+}
+
+.list {
+  margin-top: 2rem;
+  width: 400px;
+}
+
+.header h1 {
+  color: #fff;
+}
+/*# sourceMappingURL=main.css.map */
